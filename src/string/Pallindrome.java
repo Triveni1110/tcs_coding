@@ -2,6 +2,12 @@ package string;
 
 import java.util.Arrays;
 
+/**
+ * Pallindrome Check
+ * 
+ * @author hp
+ *
+ */
 public class Pallindrome {
 
 	public static void main(String[] args) {
